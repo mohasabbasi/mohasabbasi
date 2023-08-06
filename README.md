@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Mohammad Hasan Abbasi. I Love to work with Data, and  build AI-powered Apps
+I'm Mohammad Hasan Abbasi. I Love to work with data anywhere and any type of it (clean or dirty!) and maybe one day I build a fun AI-powered App
 - 🔭 I’m currently working on Data infrastructure of My company using Apache Airflow , python , posgresql , MySQL 
 - 🌱 I’m currently learning Apache spark
 - 👯 I’m looking to collaborate on open source data projects , monitoring dashboards like grafana and metabase.
