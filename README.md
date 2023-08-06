@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Mohammad Hasan Abbasi. I Love to work with Data, and  build AI-powered Apps
+- 🔭 I’m currently working on Data infrastructure of My company using Apache Airflow , python , posgresql , MySQL 
+- 🌱 I’m currently learning Apache spark
+- 👯 I’m looking to collaborate on open source data projects , monitoring dashboards like grafana and metabase.
 
 <!--
 **mohasabbasi/mohasabbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
